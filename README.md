@@ -1,0 +1,1 @@
+In this Project, the program generates various number patterns based on used input and the program will ask the user to choose a pattern type and the number of rows for pattern and Each Pattern has its own function.This project is simple but demonstrate the use of nested for loops,conditionals and basic user input or output.
